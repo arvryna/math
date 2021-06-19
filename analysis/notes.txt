@@ -1,0 +1,20 @@
+I don’t have any authority to “rate” textbooks written by one of the leading mathematicians of our generation, but I’m happy to share my thoughts.
+
+In brief: these books exactly represent the way I believe real analysis should be taught to students with a genuine interest in mathematics. They are superb, and they are demanding. They emphasize rigor and deep understanding of concepts and proofs. They reveal why real analysis is necessary and why it matters.
+
+I know that some students want to get through linear algebra and real analysis as quickly and painlessly as possible, either to just check the box or to pick up a few of the necessary algorithmic techniques, and move on to what they’re really after: machine learning, or trading, or whatever. This, I believe, is not a fruitful attitude even if you do end up focusing on machine learning, but regardless – if this is your attitude, those books are not for you.
+
+I’m constantly surprised by how many freshman real analysis courses in the US give up on or sidestep the need for rigorously introducing the real number system, for example. Tao spends considerable time with the basics, to the point where his honors students were well behind their non-honors friends three or four weeks into the course. Later, this paid off in the greatly improved ability to create and write proofs.
+
+When you emerge from a real analysis course, you should know why the implicit function theorem is true, and you should be able to calculate the Fourier series of a sawtooth function. Those are both valuable things, but different students care about them to different degrees.
+
+If you merely want to know how to calculate a Fourier series, there are faster ways to get there. You don’t really need to spend time proving that the sum of two positive real numbers is positive. But if you want to learn to prove things and to translate your intuition into a rigorous argument, practicing with the “easy” first steps is better than wrestling with the mean value theorem as your first real proof.
+
+Consequently, there is almost zero value in reading Tao’s analysis textbooks. You’ll only learn anything from them by doing, meaning doing almost all of the exercises by yourself. This isn’t easy, and it’s even harder to do alone. If you don’t have a teacher, mentor, guide, or someone to assess your work, you’ll need to be very talented and very disciplined to get real value out of self-studying those textbooks.
+
+Tao is a modern master, and one should also study from the masters. Luckily, Tao is also a fantastically thoughtful expositor and teacher (which cannot be said of all masters of their domain), which makes these books nearly perfect (I’ve a few tiny points of disagreement with the exposition, but they hardly matter). If I were teaching a course on real analysis to strong, motivated students, I would pick these books in a heartbeat.
+
+EDIT: folks have asked how I would compare these volumes to Rudin, presumably “Baby Rudin” (Principles of Mathematical Analysis).
+
+Baby Rudin has been a standard textbook for decades, and it’s great. Rudin doesn’t spend as much time as Tao does on the foundations, and I think Tao feels more modern and better motivated. A student will benefit from looking at both, but if I had to choose a textbook today then, again, I’d probably go with Tao.
+
